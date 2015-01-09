@@ -1,0 +1,8 @@
+use admin
+db.createUser({ user: "root", pwd: "rktjgfnhf", roles: [{role: "userAdminAnyDatabase", db: "admin"}]})
+use cls
+db.createUser({ user: "cls_admin", pwd: "cls_admin", roles: [{role: "userAdmin", db: "cls"}]})
+
+mongo -u cls_admin -p cls_admin  --authenticationDatabase cls
+use cls
+db.createUser({ user: "cls", pwd: "cls", roles: [{role: "readWrite", db: "cls"}]})
