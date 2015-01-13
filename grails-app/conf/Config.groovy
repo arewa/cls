@@ -116,6 +116,8 @@ log4j.main = {
            'net.sf.ehcache.hibernate'
 }
 
+grails.plugin.localeConfiguration.supportedLocales = [new Locale('ru')]
+grails.plugin.localeConfiguration.defaultLocale = new Locale('ru')
 
 // Added by the Spring Security Core plugin:
 grails.plugin.springsecurity.userLookup.userDomainClassName = 'com.cls.User'

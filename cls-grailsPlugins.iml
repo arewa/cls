@@ -52,6 +52,9 @@
     <content url="file://$MODULE_DIR$/target/work/plugins/jquery-ui-1.10.3">
       <sourceFolder url="file://$MODULE_DIR$/target/work/plugins/jquery-ui-1.10.3/grails-app/taglib" isTestSource="false" />
     </content>
+    <content url="file://$MODULE_DIR$/target/work/plugins/locale-configuration-1.1.1">
+      <sourceFolder url="file://$MODULE_DIR$/target/work/plugins/locale-configuration-1.1.1/src/groovy" isTestSource="false" />
+    </content>
     <content url="file://$MODULE_DIR$/target/work/plugins/mail-1.0.5">
       <sourceFolder url="file://$MODULE_DIR$/target/work/plugins/mail-1.0.5/src/groovy" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/target/work/plugins/mail-1.0.5/grails-app/i18n" isTestSource="false" />
