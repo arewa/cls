@@ -1,18 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="0856ddd4-acc7-4dbc-a99f-4b43b18b4646" name="Default" comment="">
-      <change type="DELETED" beforePath="D:\projects\demolab\cls\grails-app\assets\javascripts\bootstrap\bootstrap.min.js" afterPath="" />
-      <change type="DELETED" beforePath="D:\projects\demolab\cls\grails-app\assets\stylesheets\bootstrap\bootstrap-theme.min.css" afterPath="" />
-      <change type="DELETED" beforePath="D:\projects\demolab\cls\grails-app\assets\stylesheets\bootstrap\bootstrap.min.css" afterPath="" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/grails-app/conf/BuildConfig.groovy" afterPath="$PROJECT_DIR$/grails-app/conf/BuildConfig.groovy" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/grails-app/assets/stylesheets/application.css" afterPath="$PROJECT_DIR$/grails-app/assets/stylesheets/application.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/grails-app/assets/javascripts/application.js" afterPath="$PROJECT_DIR$/grails-app/assets/javascripts/application.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/cls-grailsPlugins.iml" afterPath="$PROJECT_DIR$/cls-grailsPlugins.iml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/cls.iml" afterPath="$PROJECT_DIR$/cls.iml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/grails-app/views/layouts/login.gsp" afterPath="$PROJECT_DIR$/grails-app/views/layouts/login.gsp" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-    </list>
+    <list default="true" id="0856ddd4-acc7-4dbc-a99f-4b43b18b4646" name="Default" comment="" />
     <ignored path="cls.iws" />
     <ignored path=".idea/workspace.xml" />
     <ignored path="$PROJECT_DIR$/out/" />
@@ -455,6 +444,7 @@
     <property name="options.splitter.main.proportions" value="0.3" />
     <property name="options.splitter.details.proportions" value="0.2" />
     <property name="Groovy.Shell.LastModule" value="cls" />
+    <property name="FullScreen" value="false" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
@@ -678,16 +668,16 @@
       <workItem from="1420818693693" duration="391000" />
       <workItem from="1420819396882" duration="15766000" />
       <workItem from="1421146161399" duration="6000" />
-      <workItem from="1421155403889" duration="1876000" />
+      <workItem from="1421155403889" duration="1943000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="18039000" />
+    <option name="totallyTimeSpent" value="18106000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
-    <editor active="true" />
+    <editor active="false" />
     <layout>
       <window_info id="Palette&#9;" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
